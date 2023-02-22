@@ -1,0 +1,46 @@
+.header{
+	height: 150px;
+	background-color: red;
+}
+
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 50%;
+	height: 240px;
+	background-color: black;
+}
+
+.content{
+	float: right;
+	width: 50%;
+	height: 240px;
+	background-color: yellow;
+	
+}
+
+
+
+.item{
+	float: left;
+	width: 33.33%;
+	height: 135px;
+}
+.aqua{
+	background-color: darkturquoise;
+}
+.pink{
+	background-color: darksalmon;
+}
+.gray{
+	background-color: darkcyan;
+}
+
+
+.footer{
+	height: 150px;
+	background-color: darkorchid;
+	clear: both;
+}
